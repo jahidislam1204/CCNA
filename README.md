@@ -29,7 +29,8 @@ This repository contains notes, examples, and resources for networking topics co
 ### Additional Topics
 - NAT (Network Address Translation)  
 - DHCP Server  
-- Access Control List (ACL)  
+- Access Control List (ACL)
+- FTP & TFTP
 
 ### Network Security
 - VPN (Virtual Private Network)
